@@ -4,9 +4,9 @@
 
 This app was developed as a semester-based project for the class Software Engineering (CS314), taught by Dave Matthews, on Fall 2021. This was a team project and five students were responsible for developing this app.
 
-***IMPORTANT:*** currently, the app is only able to run on CSU's server (black-bottle.cs.colostate.edu) which can only be accessed inside the CSU network.
-
 ***IMPORTANT:*** The code for this app will not be public in GibHub to avoid possible plagiarism from future students about to take the class. **However, the code will be shared/available upon request only**.
+
+***IMPORTANT:*** currently, the app is only able to run on CSU's server (black-bottle.cs.colostate.edu) which can only be accessed inside the CSU network.
 
 # Team information
 
