@@ -1,4 +1,4 @@
-# T10 map app
+# T10 Distance Map app
 
 # About
 
